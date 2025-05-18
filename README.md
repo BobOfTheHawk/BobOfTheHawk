@@ -1,4 +1,3 @@
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
 <h1 align="center">Hi 👋, I'm Muhammad Amin</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <p align="center">
