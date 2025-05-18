@@ -38,7 +38,7 @@ Terminal-based development workflows**
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/MuhammadAamin) [![LinkedIn](linkedin.com/in/muhammad-amin-haitov-1b34a6366) [![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:polatdjorayev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/MuhammadAamin) [![LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/muhammad-amin-haitov-1b34a6366) [![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:polatdjorayev@gmail.com)
 
 
 
