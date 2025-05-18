@@ -33,7 +33,7 @@ HTML (Basic),
 CSS (Basic),
 System troubleshooting,
 Terminal-based development workflows**
-- 📫 How to reach me [**rvkamronbek@gmail.com**](mailto:rvkamronbek@gmail.com)
+- 📫 How to reach me [**rvkamronbek@gmail.com**](mailto:polatdjorayev@gmail.com)
 
 
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
