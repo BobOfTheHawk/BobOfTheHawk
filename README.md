@@ -78,19 +78,19 @@ Terminal-based development workflows**
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krv006&theme=radical">
+<img src="https://github-profile-trophy.vercel.app/?username=BobOfTheHawk&theme=radical">
 <br/>
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krv006&theme=tokyonight">
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BobOfTheHawk&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=krv006&theme=tokyonight&hide_border=true" alt="Kamronbek">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=BobOfTheHawk&theme=tokyonight&hide_border=true" alt="Bob">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=krv006&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=BobOfTheHawk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krv006&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobOfTheHawk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
 ## 👁️ Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{krv006}/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{BobOfTheHawk}/count.svg"/>
 </p>
