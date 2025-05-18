@@ -6,32 +6,32 @@
 
 
 - 🔭 Self Employed
-- 💬 Ask me about **Python
-Go (Basic)
-Django
-Django REST Framework (DRF)
-FastAPI (Basic)
-PostgreSQL
-SQLite
-SQL
-Docker
-Kubernetes
-Docker Compose
-CI/CD
-Google Cloud Platform (GCP)
-Redis
-RabbitMQ
-Celery
-Git
-GitHub
-Aiogram 3
-Linux (Arch, Ubuntu, Linux From Scratch)
-Shell Scripting
-Package managers (apt, pacman)
-Linux debugging
-HTML (Basic)
-CSS (Basic)
-System troubleshooting
+- 💬 Ask me about **Python,
+Go (Basic),
+Django,
+Django REST Framework (DRF),
+FastAPI (Basic),
+PostgreSQL,
+SQLite,
+SQL,
+Docker,
+Kubernetes,
+Docker Compose,
+CI/CD,
+Google Cloud Platform (GCP),
+Redis,
+RabbitMQ,
+Celery,
+Git,
+GitHub,
+Aiogram 3,
+Linux (Arch, Ubuntu, Linux From Scratch),
+Shell Scripting,
+Package managers (apt, pacman),
+Linux debugging,
+HTML (Basic),
+CSS (Basic),
+System troubleshooting,
 Terminal-based development workflows**
 - 📫 How to reach me [**rvkamronbek@gmail.com**](mailto:rvkamronbek@gmail.com)
 
