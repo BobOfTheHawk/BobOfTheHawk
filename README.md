@@ -11,14 +11,14 @@
 
 - 🔭 Currently self-employed, building backend services and Telegram bots.
 - 💬 Ask me about **Python, Django/DRF, PostgreSQL, Docker, Kubernetes, Linux**.
-- 📫 Reach me at [polatdjorayev@gmail.com](mailto:polatdjorayev@gmail.com).
+- 📫 Reach me at [haitovmuhammadaminwork@gmail.com](mailto:haitovmuhammadaminwork@gmail.com).
 
 ### Connect
 
 <p>
-  <a href="https://t.me/MuhammadAamin"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/BobofTheHawk"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-amin-haitov-1b34a6366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:polatdjorayev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:haitovmuhammadaminwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### Tech stack
