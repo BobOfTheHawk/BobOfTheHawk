@@ -101,8 +101,8 @@ $ exit
 ### `$ git stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BobOfTheHawk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobOfTheHawk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" />
+  <img height="165" src="https://arch-mu-six.vercel.app/api?username=BobOfTheHawk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://arch-mu-six.vercel.app/api/top-langs/?username=BobOfTheHawk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
