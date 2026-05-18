@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/BobOfTheHawk">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Muhammad+Amin+%F0%9F%91%8B;Backend+Developer+%E2%80%94+Python+%F0%9F%90%8D+%2B+Go+%F0%9F%90%B9;CLI+apps%2C+Telegram+bots%2C+Linux+rice;sudo+rm+-rf+%2Fproblems;I+use+Arch%2C+btw+%F0%9F%8F%94%EF%B8%8F;It+works+on+my+machine+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="typing header" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Muhammad+Amin+%F0%9F%91%8B;Backend+Developer+%E2%80%94+Python+%2B+Go;CLI+apps%2C+Telegram+bots%2C+Linux+rice;sudo+rm+-rf+%2Fproblems;I+use+Arch%2C+btw;It+works+on+my+machine+%F0%9F%A4%B7" alt="typing header" />
   </a>
 </h1>
 
@@ -101,16 +101,12 @@ $ exit
 ### `$ git stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BobOfTheHawk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobOfTheHawk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BobOfTheHawk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobOfTheHawk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BobOfTheHawk&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://ghchart.rshah.org/70a5fd/BobOfTheHawk" alt="contribution chart" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BobOfTheHawk/BobOfTheHawk/output/snake.svg" alt="snake animation" />
-</p>
-
-<p align="center"><sub>made on a thinkpad, in a terminal, somewhere in Uzbekistan</sub></p>
+<p align="center"><em>made on a thinkpad, in a terminal, somewhere in Uzbekistan</em></p>
